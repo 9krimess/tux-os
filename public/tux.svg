@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <foreignObject width="100%" height="100%">
+    <iframe 
+      srcdoc="<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -2734,4 +2737,11 @@ function init() {
 init();
 </script>
 </body>
-</html>
+</html>" 
+      width="100%" 
+      height="100%" 
+      style="border: none;" 
+      sandbox="allow-scripts allow-same-origin allow-forms allow-popups">
+    </iframe>
+  </foreignObject>
+</svg>
